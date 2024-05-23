@@ -2,8 +2,6 @@
 
 ## Facultad de Matemáticas y Estadística ~ Universidad Politécnica de Cataluña
 
-## Eduardo Peña Royuela ~ 2020
-
 ### Prácticas
 
 Este repositorio contiene las siguientes prácticas:
